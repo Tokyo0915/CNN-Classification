@@ -19,5 +19,5 @@ pip install torch torchvision numpy matplotlib
 ## Clone the repository
 git clone https://github.com/Tokyo0915/CNN-Classification.git
 
-## Navigate to the cloned directory and run the scripts:
+## Navigate to the cloned directory and run the scripts
 cd CNN-Classification
