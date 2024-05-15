@@ -17,7 +17,11 @@ Install the required packages using:
 pip install torch torchvision numpy matplotlib
 ```
 ## Clone the repository
+```bash
 git clone https://github.com/Tokyo0915/CNN-Classification.git
+```
 
 ## Navigate to the cloned directory and run the scripts
+```bash
 cd CNN-Classification
+```
