@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for training and evaluating three Convolutional Neural Network (CNN) architectures: AlexNet, ResNet-18, and GoogLeNet. These models are applied to a dataset of images featuring 30 different types of balls to classify them based on their types using PyTorch.
+This repository contains code for training and evaluating three Convolutional Neural Network (CNN) architectures: AlexNet, ResNet, and GoogLeNet. These models are applied to a dataset of images featuring 30 different types of balls to classify them based on their types using PyTorch.
 
 ## Dependencies
 
